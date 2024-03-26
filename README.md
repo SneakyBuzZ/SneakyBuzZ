@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/sneaky_d_buzz" target="blank"><img src="https://img.shields.io/twitter/follow/sneaky_d_buzz?logo=twitter&style=for-the-badge" alt="sneaky_d_buzz" /></a> </p>
 
-- 🔭 I’m currently working on [Express Wave : A blog app](https://github.com/SneakyBuzZ/ExpressWave-Blog-App)
-
 - 🌱 I’m currently learning **React.js Angular.js Next.js**
 
 - 💬 Ask me about **React.js**
