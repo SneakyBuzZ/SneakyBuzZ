@@ -1,4 +1,4 @@
-# ✨ Hello I'm Kaushik:
+# ✨ Hello I'm Kaushik
 A BTech CSE undergrad with a keen interest in Technologies like Web Development , Machine Learning , Artificial Intelligence and App development.
 
 
